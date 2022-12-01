@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bassamanator
-- 👀 I love Javascript, Typescript, and React
+- 👀 I love ~~Javascript~~, Typescript, and React
 - 🌱 I’m currently learning Next.js and TRPC
 - 💞️ I’m looking to collaborate on a project that uses the [T3 Stack](https://create.t3.gg/)
 
-I work with the following tech:
-[](https://www.javascript.com/)
+Some of the tech I work with:
+React, Javascript, Typescript, Formik, Strapi, Node, React-Query, Yup, Postgresql
 
 
 <!---
