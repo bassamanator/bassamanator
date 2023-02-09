@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bassamanator
 - 👀 I love ~~Javascript~~, Typescript, and React
-- 🌱 I’m currently learning Next.js and TRPC
+- 🌱 I’m currently learning Next.js and Tailwind
 - 💞️ I’m looking to collaborate on a project that uses the [T3 Stack](https://create.t3.gg/)
 
 Some of the tech I work with:
