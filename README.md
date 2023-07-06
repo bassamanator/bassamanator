@@ -1,28 +1,55 @@
-👋 Hi, My name is Bassam.
+<!-- Header -->
 
-I love ❤ Javascript, Typescript, and React.
+# Hi there! 👋 I'm Bassam
 
-I’m currently learning:
+<!-- Introduction -->
+
+I'm a software developer passionate about web development and open-source projects. I enjoy working with a variety of technologies, including:
+
+| Technology |            |             |
+| ---------- | ---------- | ----------- |
+| React.js   | TypeScript | JavaScript  |
+| HTML       | CSS        | TailwindCSS |
+| Linux      | Strapi     | Docker      |
+| Yup        | Zod        | React Query |
+| ChakraUI   | Formik     | Axios       |
+| Prisma     | PostgreSQL | Markdown    |
+| FreeCAD    | Fusion360  |             |
+
+I'm currently exploring:
 
 - Next.js
-- Tailwind
-- Python (more of it)
-- Zod
 - tRPC
+- Python
 
-💞️ I love to collaborate! Feel free to contact me if you want to work on any web apps with me!
+<!-- Most Starred Repositories -->
 
-Here's a [Google Keep clone](https://keep-clone-puce.vercel.app/) I made recently using the T3 Stack.
+## Most Starred Repositories
 
-Here are some of my popular repositories:
-- [Sovol-SV06-firmware](https://github.com/bassamanator/Sovol-SV06-firmware)
-- [everything-sovol-sv06](https://github.com/bassamanator/everything-sovol-sv06)
+[![Repo 1 Name](https://github-readme-stats.vercel.app/api/pin/?username=bassamanator&repo=Sovol-SV06-firmware&theme=radical)](https://github.com/bassamanator/Sovol-SV06-firmware)
+[![Repo 2 Name](https://github-readme-stats.vercel.app/api/pin/?username=bassamanator&repo=everything-sovol-sv06&theme=radical)](https://github.com/bassamanator/everything-sovol-sv06)
 
+<!-- GitHub Stats -->
 
-Some of the tech I work with:
+## GitHub Stats
 
-React, Javascript, Typescript, Formik, Strapi, Node, React-Query, Yup, Postgresql, Python, Zod
-<!---
-bassamanator/bassamanator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bassamanator&show_icons=true&theme=radical)
+
+<!-- Languages -->
+
+## Top Languages
+
+![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bassamanator&theme=radical)
+
+<!-- Connect with Me -->
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](www.linkedin.com/in/bassam-husain-93b3591a3)
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=flat-square&logo=dev.to&logoColor=white&color=black)](https://your-portfolio-website.com) -->
+
+<!-- Footer -->
+<p align="center">
+    Made with ❤️ and ☕ by Bassam
+</p>
