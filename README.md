@@ -20,16 +20,16 @@ I'm currently exploring:
 
 ## Most Starred Repositories
 
-[![Repo 1 Name](https://github-readme-stats.vercel.app/api/pin/?username=bassamanator&repo=Sovol-SV06-firmware&theme=radical)](https://github.com/bassamanator/Sovol-SV06-firmware)
-[![Repo 2 Name](https://github-readme-stats.vercel.app/api/pin/?username=bassamanator&repo=everything-sovol-sv06&theme=radical)](https://github.com/bassamanator/everything-sovol-sv06)
+[![Repo 1 Name](https://github-readme-stats-iota-lyart.vercel.app/api/pin/?username=bassamanator&repo=Sovol-SV06-firmware&theme=radical)](https://github.com/bassamanator/Sovol-SV06-firmware)
+[![Repo 2 Name](https://github-readme-stats-iota-lyart.vercel.app/api/pin/?username=bassamanator&repo=everything-sovol-sv06&theme=radical)](https://github.com/bassamanator/everything-sovol-sv06)
 
 ## GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bassamanator&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats-iota-lyart.vercel.app/api?username=bassamanator&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bassamanator&theme=radical)
+![Your Name's Top Languages](https://github-readme-stats-iota-lyart.vercel.app/api/top-langs/?username=bassamanator&theme=radical)
 
 ## Connect with Me
 
