@@ -10,13 +10,13 @@ I'm a software developer passionate about web development and open-source projec
 | Yup        | Zod        | React Query |
 | ChakraUI   | Formik     | Axios       |
 | Prisma     | PostgreSQL | Markdown    |
-| FreeCAD    | Fusion360  |             |
+| FreeCAD    | Fusion360  | Next.js     |
+| Python |  |  |
 
 I'm currently exploring:
 
-- Next.js
 - tRPC
-- Python
+- Python (learning more of it)
 
 ## Most Starred Repositories
 
