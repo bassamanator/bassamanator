@@ -11,7 +11,7 @@ I'm a software developer passionate about web development and open-source projec
 | ChakraUI   | Formik     | Axios       |
 | Prisma     | PostgreSQL | Markdown    |
 | FreeCAD    | Fusion360  | Next.js     |
-| Python |  |  |
+| Python     |            |             |
 
 I'm currently exploring:
 
@@ -30,6 +30,15 @@ I'm currently exploring:
 ## Top Languages
 
 ![Bassam's Top Languages](https://github-readme-stats-iota-lyart.vercel.app/api/top-langs/?username=bassamanator&theme=panda)
+
+## Personal Projects
+
+These are just some apps that I'm currently working on. They are not production ready, though fully functional and responsive.
+
+- Website for a non-profit: [Degrowth Collective](https://landing-page-v2-delta.vercel.app/).
+  - Next.js, TailwindCSS.
+- A Google Keep clone I wrote just for fun: [NoteTAKER](https://keep-clone-puce.vercel.app/).
+  - T3 Stack: Next.js, TailwindCSS, tRPC.
 
 ## Connect with Me
 
