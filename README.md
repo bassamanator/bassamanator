@@ -11,12 +11,12 @@ I'm a software developer passionate about web development and open-source projec
 | ChakraUI   | Formik     | Axios       |
 | Prisma     | PostgreSQL | Markdown    |
 | FreeCAD    | Fusion360  | Next.js     |
-| Python     |            |             |
+| Python     | Angular    |             |
 
 I'm currently exploring:
 
-- tRPC
-- Python (learning more of it)
+- Angular
+- AI
 
 ## Most Starred Repositories
 
