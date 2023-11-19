@@ -4,14 +4,10 @@ I'm a software developer passionate about web development and open-source projec
 
 | Technology |            |             |
 | ---------- | ---------- | ----------- |
-| React.js   | TypeScript | JavaScript  |
-| HTML       | CSS        | TailwindCSS |
-| Linux      | Strapi     | Docker      |
-| Yup        | Zod        | React Query |
-| ChakraUI   | Formik     | Axios       |
-| Prisma     | PostgreSQL | Markdown    |
-| FreeCAD    | Fusion360  | Next.js     |
-| Python     | Angular    |             |
+| React.js   | Next.js    | Linux       |
+| Python     | TypeScript | TailwindCSS |
+| Prisma     | Node.js    | Docker      |
+| FreeCAD    | Fusion360  |             |
 
 I'm currently exploring:
 
@@ -42,6 +38,6 @@ These are just some apps that I'm currently working on. They are not production 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/bassam-husain-93b3591a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/bassamhusain)
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=flat-square&logo=dev.to&logoColor=white&color=black)](https://your-portfolio-website.com) -->
