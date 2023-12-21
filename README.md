@@ -25,7 +25,7 @@ I'm currently exploring:
 
 ## Top Languages
 
-![Bassam's Top Languages](https://github-readme-stats-iota-lyart.vercel.app/api/top-langs/?username=bassamanator&theme=panda)
+![Bassam's Top Languages](https://github-readme-stats-iota-lyart.vercel.app/api/top-langs/?username=bassamanator&theme=panda&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
 
 ## Personal Projects
 
