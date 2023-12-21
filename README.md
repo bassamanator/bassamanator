@@ -11,6 +11,7 @@ I'm a software developer passionate about web development and open-source projec
 
 I'm currently exploring:
 
+- Rust
 - Angular
 - AI
 
@@ -21,7 +22,7 @@ I'm currently exploring:
 
 ## GitHub Stats
 
-![Bassam's GitHub Stats](https://github-readme-stats-iota-lyart.vercel.app/api?username=bassamanator&show_icons=true&theme=panda)
+![Bassam's GitHub Stats](https://github-readme-stats-iota-lyart.vercel.app/api?username=bassamanator&show_icons=true&theme=panda&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=contribs)
 
 ## Top Languages
 
@@ -39,5 +40,3 @@ These are just some apps that I'm currently working on. They are not production 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/bassamhusain)
-
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=flat-square&logo=dev.to&logoColor=white&color=black)](https://your-portfolio-website.com) -->
