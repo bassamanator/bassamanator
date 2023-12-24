@@ -22,7 +22,7 @@ I'm currently exploring:
 
 ## GitHub Stats
 
-![Bassam's GitHub Stats](https://github-readme-stats-iota-lyart.vercel.app/api?username=bassamanator&show_icons=true&theme=panda&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=contribs)
+![Bassam's GitHub Stats](https://github-readme-stats-iota-lyart.vercel.app/api?username=bassamanator&show_icons=true&theme=panda&show=discussions_started,discussions_answered,prs_merged&hide=contribs)
 
 ## Top Languages
 
