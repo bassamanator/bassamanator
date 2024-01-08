@@ -9,7 +9,10 @@ I'm a software developer passionate about web development and open-source projec
 | Prisma     | Node.js    | Docker      |
 | FreeCAD    | Fusion360  | PostgreSQL  |
 
-I'm currently learning `Rust`.
+I'm currently learning:
+
+- Rust
+- Redux Tookit
 
 ## Most Starred Repositories
 
