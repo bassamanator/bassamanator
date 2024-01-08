@@ -7,13 +7,9 @@ I'm a software developer passionate about web development and open-source projec
 | React.js   | Next.js    | Linux       |
 | Python     | TypeScript | TailwindCSS |
 | Prisma     | Node.js    | Docker      |
-| FreeCAD    | Fusion360  |             |
+| FreeCAD    | Fusion360  | PostgreSQL  |
 
-I'm currently exploring:
-
-- Rust
-- Angular
-- AI
+I'm currently learning `Rust`.
 
 ## Most Starred Repositories
 
