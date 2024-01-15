@@ -8,11 +8,12 @@ I'm a software developer passionate about web development and open-source projec
 | Python     | TypeScript | TailwindCSS |
 | Prisma     | Node.js    | Docker      |
 | FreeCAD    | Fusion360  | PostgreSQL  |
+| Redux    |   |   |
 
 I'm currently learning:
 
-- Rust
-- Redux Tookit
+- [Rust](https://www.rust-lang.org/)
+- [Remix](https://remix.run/)
 
 ## Most Starred Repositories
 
