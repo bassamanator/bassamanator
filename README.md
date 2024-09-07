@@ -4,11 +4,14 @@ I'm a software developer passionate about web development and open-source projec
 
 | Technology |            |             |
 | ---------- | ---------- | ----------- |
-| React.js   | Next.js    | Linux       |
+| React.js   | Remix.run  | Linux       |
 | Python     | TypeScript | TailwindCSS |
 | Prisma     | Node.js    | Docker      |
-| FreeCAD    | Fusion360  | PostgreSQL  |
-| Redux    |   |   |
+| FreeCAD    | Fusion360  | onshape     |
+| Redux      | Next.js    | Astro       |
+| PostgreSQL |            |             |
+
+Checkout my blog, [https://bassamhusain.com/](https://bassamhusain.com/). Built with [Astro](https://astro.build/) 🚀!
 
 I'm currently learning:
 
