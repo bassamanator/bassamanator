@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/bassamanator"/>
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fbassamhusain.com&up_message=https%3A%2F%2Fbassamhusain.com&down_message=https%3A%2F%2Fbassamhusain.com&style=social&label=Website"/>
+  <a href="https://bassamhusain.com/" alt="https://bassamhusain.com">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fbassamhusain.com&up_message=https%3A%2F%2Fbassamhusain.com&down_message=https%3A%2F%2Fbassamhusain.com&style=social&label=Website"/>
+  </a>
 </p>
 
 <h1 align="center">
