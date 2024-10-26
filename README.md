@@ -1,4 +1,11 @@
-# Hi there! 👋 I'm Bassam
+<p align="center">
+  <img src="https://img.shields.io/github/stars/bassamanator"/>
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fbassamhusain.com&up_message=https%3A%2F%2Fbassamhusain.com&down_message=https%3A%2F%2Fbassamhusain.com&style=social&label=Website"/>
+</p>
+
+<h1 align="center">
+👋 Hi there! My name is Bassam.
+</h1>
 
 I'm a software developer passionate about web development and open-source projects. I enjoy working with a variety of technologies, including:
 
@@ -10,8 +17,6 @@ I'm a software developer passionate about web development and open-source projec
 | FreeCAD    | Fusion360  | onshape     |
 | Redux      | Next.js    | Astro       |
 | PostgreSQL |            |             |
-
-Checkout my blog, [https://bassamhusain.com/](https://bassamhusain.com/). Built with [Astro](https://astro.build/) 🚀!
 
 I'm currently learning:
 
